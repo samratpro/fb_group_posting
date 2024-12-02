@@ -1,0 +1,14 @@
+/__pycache__
+/App
+/chrome-win
+/icons
+/output
+/tutorial
+/Update App
+/venv
+dashboard.py
+dashboard.ui
+database.db
+img.qrc
+main.py
+storage_state.json
